@@ -9,4 +9,5 @@ const urls = [];
 
 - Run `node index.js`
 - Wait till the app ends their work
-- open `out` folder
+- code will concat all the media files into one
+- open `media` folder
